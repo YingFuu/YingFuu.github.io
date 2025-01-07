@@ -23,7 +23,6 @@ Please check out my CV.
 Email: ying.fu@wisc.edu
 
 # Publications
-======
 ## Accepted
 
 **Ying Fu**, Kaibo Liu, and Wenbin Zhu.  " Instance Selection Via Voronoi Neighbors for Binary Classification Tasks." *IEEE Transactions on Knowledge and Data Engineering (2023)*. (The Best Paper Finalist award in the DAIS Section of Industrial and Systems Engineering Research Conference (ISERC), 2023)
