@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : 
 title                    : "Ying Fu's Homepage"
 title_separator          : "-"
 name                     : &name "Ying Fu"
