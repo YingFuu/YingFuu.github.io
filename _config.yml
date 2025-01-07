@@ -23,9 +23,9 @@ author:
   # Biographic information
   avatar           : "yfu.jpg"
   name             : "Ying Fu"
-  pronouns         : # example: "she/her"  
+  pronouns         : 
   bio              : "Third-year Ph.D. candidate in Industrial and Systems Engineering at UW¨CMadison."
-  uri              : # URL
+  uri              : 
   email            : "ying.fu@wisc.edu" 
 
   # Academic websites
