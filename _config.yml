@@ -25,16 +25,16 @@ author:
   name             : "Ying Fu"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Madison, WI"
+  employer         : 
   uri              : # URL
   email            : "ying.fu@wisc.edu" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  arxiv            : 
+  googlescholar    : "https://scholar.google.com/citations?user=Rm9d2l0AAAAJ&hl=en"
+  impactstory      : 
+  orcid            : 
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
