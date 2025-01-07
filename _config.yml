@@ -24,7 +24,7 @@ author:
   avatar           : "yfu.jpg"
   name             : "Ying Fu"
   pronouns         : # example: "she/her"  
-  bio              : "Third-year Ph.D. candidate in Industrial and Systems Engineering at UW¨CMadison."
+  bio              : "Third-year Ph.D. candidate in Industrial and Systems Engineering at UW¨CMadison"
   location         : "Madison, WI"
   employer         : 
   uri              : # URL
@@ -34,9 +34,9 @@ author:
   arxiv            : 
   googlescholar    : "https://scholar.google.com/citations?user=Rm9d2l0AAAAJ&hl=en"
   impactstory      : 
-  orcid            : 
+  orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : 
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
