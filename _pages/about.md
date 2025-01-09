@@ -9,10 +9,10 @@ redirect_from:
 
 I am a third-year Ph.D. candidate in Industrial and Systems Engineering at the University of Wisconsin–Madison, advised by [Prof. Kaibo Liu](https://kaibo.ie.wisc.edu/). Before joining UW–Madison, I earned a B.S. in Engineering and Finance (double major) and an M.S. in Management Science and Engineering from the South China University of Technology.
 
-My research focuses on leveraging machine learning, including reinforcement learning, and optimization techniques to advance manufacturing systems. Key areas of interest include:
-
-- Modeling and prognostics of system degradation  
-- Maintenance decision-making and optimization
+- My research focuses on leveraging machine learning, including reinforcement learning, and optimization techniques to advance manufacturing systems. Key areas of interest include:
+  - System Informatics and Industrial Big Data Analytics
+  - Modeling and Prognostics of System Degradation
+  - Maintenance Decision-Making and Optimization
 
 **I am actively seeking a Machine Learning Engineer/Scientist internship for Summer 2025. If you're interested in my work, feel free to reach out or email me!**
 
@@ -51,6 +51,10 @@ Wenbin Zhu, Runwen Qiu, and **Ying Fu**. "Comparative Study on the Performance o
 - *2022.09 - Present*, Ph.D student, University of Wisconsin-Madison, WI, USA.
 - *2019.09 - 2022.06*, M.S., South China University of Technology, GuangZhou, China.
 - *2015.09 - 2019.06*, B.S., South China University of Technology, GuangZhou, China.
+
+# Teaching
+
+- ISyE 412: Fundamentals of Industrial Data Analytics (TA), Spring 2025
 
 # Services
 
