@@ -2,11 +2,13 @@
 
 I am a third-year Ph.D. candidate in Industrial and Systems Engineering at the University of Wisconsin–Madison. 
 
-My research focuses on leveraging machine learning, including reinforcement learning, and optimization techniques to advance manufacturing systems. Key areas of interest include:
+My research leverages machine learning, including reinforcement learning, and optimization techniques to enhance manufacturing systems. My primary areas of focus are:
 
 - System Informatics and Industrial Big Data Analytics
 - Modeling and Prognostics of System Degradation
-- Maintenance Decision-Making and Optimization
+- Maintenance Optimization and Decision-Making
+
+Please check out my [CV](https://yingfuu.github.io//resume/Resume.pdf) here. 
 
 # Contact
 
