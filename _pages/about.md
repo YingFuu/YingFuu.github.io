@@ -7,16 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. candidate in Industrial and Systems Engineering at the University of Wisconsin–Madison, advised by [Prof. Kaibo Liu](https://kaibo.ie.wisc.edu/). Before joining UW–Madison, I earned a B.S. in Engineering and Finance (double major) and an M.S. in Management Science and Engineering from the South China University of Technology.
+I am a third-year Ph.D. candidate in [Industrial and Systems Engineering at the University of Wisconsin–Madison](https://engineering.wisc.edu/departments/industrial-systems-engineering/), advised by [Prof. Kaibo Liu](https://kaibo.ie.wisc.edu/). Before joining UW–Madison, I earned a B.S. in Engineering and Finance (double major) and an M.S. in Management Science and Engineering from the South China University of Technology.
 
-- My research focuses on leveraging machine learning, including reinforcement learning, and optimization techniques to advance manufacturing systems. Key areas of interest include:
+- My research leverages machine learning, including reinforcement learning, and optimization techniques to enhance manufacturing systems. My primary areas of focus are:
   - System Informatics and Industrial Big Data Analytics
   - Modeling and Prognostics of System Degradation
-  - Maintenance Decision-Making and Optimization
+  - Maintenance Optimization and Decision-Making
 
 **I am actively seeking a Machine Learning Engineer/Scientist internship for Summer 2025. If you're interested in my work, feel free to reach out or email me!**
 
-Please check out my CV. 
+Please check out my [CV](https://yingfuu.github.io//resume/Resume.pdf) here. 
 
 # Contact
 
@@ -41,7 +41,6 @@ Wenbin Zhu, Runwen Qiu, and **Ying Fu**. "Comparative Study on the Performance o
 
 # Awards and Honors
 
-- Best Paper Finalist, DAIS Section, Industrial and Systems Engineering Research Conference (2023).
 - ISyE Graduate Student Travel Awards, University of Wisconsin-Madison (2023)
 - Chancellor’s Opportunity Award, University of Wisconsin-Madison (2022)
 - China National Scholarship, Ministry of Education of P. R. China (2017)
