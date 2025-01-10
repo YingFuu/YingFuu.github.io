@@ -6,21 +6,21 @@
 
 
 main:
-  - title: "About Me"
-    url: "/#about-me"
+  #- title: "About Me"
+  #  url: "/#about-me"
     
-  - title: "Educations"
-    url: "/#-educations"
+  #- title: "Educations"
+  #  url: "/#-educations"
     
-  - title: "Publications"
-    url: "/#-publications"
+  #- title: "Publications"
+  #  url: "/#-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-awards-and-honors"
+  #- title: "Honors and Awards"
+  #  url: "/#-awards-and-honors"
 
 
-  - title: "Teaching"
-    url: "/#-teaching"
+  #- title: "Teaching"
+  #  url: "/#-teaching"
 
   - title: "CV"
     url: "/resume/Resume.pdf"
