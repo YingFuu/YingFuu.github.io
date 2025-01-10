@@ -7,33 +7,47 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. candidate in [Industrial and Systems Engineering at the University of Wisconsin–Madison](https://engineering.wisc.edu/departments/industrial-systems-engineering/), advised by [Prof. Kaibo Liu](https://kaibo.ie.wisc.edu/). Before joining UW–Madison, I earned a B.S. in Engineering and Finance (double major) and an M.S. in Management Science and Engineering from the South China University of Technology.
+I am a third-year Ph.D. candidate in [Industrial and Systems Engineering](https://engineering.wisc.edu/departments/industrial-systems-engineering/) at the [University of Wisconsin–Madison](https://www.wisc.edu/), advised by [Prof. Kaibo Liu](https://kaibo.ie.wisc.edu/). Before joining UW–Madison, I earned a B.S. in Engineering and Finance (double major) and an M.S. in Management Science and Engineering from the South China University of Technology, advised by [Prof. Wenbin Zhu](https://scholar.google.com/citations?hl=en&user=dnmQM1YAAAAJ&view_op=list_works&sortby=pubdate).
 
-- My research leverages machine learning, including reinforcement learning, and optimization techniques to enhance manufacturing systems. My primary areas of focus are:
-  - System Informatics and Industrial Big Data Analytics
-  - Modeling and Prognostics of System Degradation
-  - Maintenance Optimization and Decision-Making
+[[Google Scholar]](https://scholar.google.com/citations?hl=en&user=Rm9d2l0AAAAJ) [[LinkedIn]](https://www.linkedin.com/in/ying-fu-302013252/) [[CV]](https://yingfuu.github.io//resume/Resume.pdf) (Last updated: Jan., 2025)
+
+**Contact**: ying.fu@wisc.edu
+
+My research focuses on leveraging **machine learning**, including **reinforcement learning**, and **optimization** techniques to enhance manufacturing systems. The primary focus areas include:
+
+- Foundational Machine Learning: instance selection and high-cardinality categorical variable encoding.
+- Discrete Optimization: 3D dynamic heterogeneous robotic palletization.
+- Machine Learning and Optimization Integration: degradation modeling, prognostics and decision making.
+
+- Edge Computing for Distributed Systems.
 
 **I am actively seeking a Machine Learning Engineer/Scientist internship for Summer 2025. If you're interested in my work, feel free to reach out or email me!**
 
-Please check out my [CV](https://yingfuu.github.io//resume/Resume.pdf) here. 
+# Educations
 
-# Contact
-
-Email: ying.fu@wisc.edu
+**Ph.D.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Industrial and Systems Engineering, University of Wisconsin-Madison, WI, USA, *Sep 2022 – present*  
+**M.S.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Computer Science, University of Wisconsin-Madison, WI, USA, *Sep 2022 – present*  
+**M.S.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Management Science and Engineering, South China University of Technology, Guangzhou, China, *Sep 2019 - Jun 2022*
+**B.S.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Polymer Materials and Engineering and Finance (Double Major), South China University of Technology, Guangzhou, China, *Sep 2015 - Jun 2019*
 
 # Publications
-**Ying Fu**, Kaibo Liu, and Wenbin Zhu.  " Instance Selection Via Voronoi Neighbors for Binary Classification Tasks." *IEEE Transactions on Knowledge and Data Engineering (2023)*. (The Best Paper Finalist award in the DAIS Section of Industrial and Systems Engineering Research Conference (ISERC), 2023). [[paper]](https://www.computer.org/csdl/journal/tk/2024/08/10313971/1RVV9fLvjAA)[[code]](https://github.com/ProfZHUWB/PDOC-V)
 
-Wenbin Zhu, **Ying Fu**, and You Zhou. "3D dynamic heterogeneous robotic palletization problem." *European Journal of Operational Research (2024)*. [[paper]](https://www.sciencedirect.com/science/article/pii/S0377221724000985)[[code]](https://github.com/ProfZHUWB/3DORP)
+## Published or Accepted
 
-**Ying Fu**, Ye Kwon Huh, and Kaibo Liu, "Degradation Modeling and Prognostic Analysis Under Unknown Failure Modes." *IEEE Transactions on Automation Science and Engineering (2025)*. [[paper]](https://arxiv.org/abs/2402.19294)[[code]](https://github.com/YingFuu/ProgUnknownFMs)
+1. **Ying Fu**, Kaibo Liu, and Wenbin Zhu.  " Instance Selection Via Voronoi Neighbors for Binary Classification Tasks." *IEEE Transactions on Knowledge and Data Engineering (2023)*. (The Best Paper Finalist award in the DAIS Section of Industrial and Systems Engineering Research Conference (ISERC), 2023). [[paper]](https://www.computer.org/csdl/journal/tk/2024/08/10313971/1RVV9fLvjAA)[[code]](https://github.com/ProfZHUWB/PDOC-V)
+1. **Ying Fu**, Ye Kwon Huh, and Kaibo Liu, "Degradation Modeling and Prognostic Analysis Under Unknown Failure Modes." *IEEE Transactions on Automation Science and Engineering (2025)*. [[paper]](https://arxiv.org/abs/2402.19294)[[code]](https://github.com/YingFuu/ProgUnknownFMs)
+1. Wenbin Zhu, **Ying Fu**, and You Zhou. "3D dynamic heterogeneous robotic palletization problem." *European Journal of Operational Research (2024)*. [[paper]](https://www.sciencedirect.com/science/article/pii/S0377221724000985)[[code]](https://github.com/ProfZHUWB/3DORP)
 
-Ye Kwon Huh, **Ying Fu**, and Kaibo Liu, "A Bayesian spike-and-slab sensor selection approach for high-dimensional prognostics, " under revision.
+## Under revision/review
 
-Wenbin Zhu, Xiaoting Wu, **Ying Fu,** and Heng-Qing Ye, "Maximum homogeneity grouping for high-cardinality categorical variables in binary classification," under review. [[code]](https://github.com/ProfZHUWB/MHG)
+1. Ye Kwon Huh, **Ying Fu**, and Kaibo Liu, "A Bayesian spike-and-slab sensor selection approach for high-dimensional prognostics, " under revision.
+2. Wenbin Zhu, Xiaoting Wu, **Ying Fu,** and Heng-Qing Ye, "Maximum homogeneity grouping for high-cardinality categorical variables in binary classification," under review. [[code]](https://github.com/ProfZHUWB/MHG)
+3. Wenbin Zhu, Runwen Qiu, and **Ying Fu**. "Comparative Study on the Performance of Categorical Variable Encoders in Classification and Regression Tasks," under review. [[paper]](https://arxiv.org/abs/2401.09682)[[code]](https://github.com/QiuRunwen/CategoryEncoderComparison)
 
-Wenbin Zhu, Runwen Qiu, and **Ying Fu**. "Comparative Study on the Performance of Categorical Variable Encoders in Classification and Regression Tasks," under review. [[paper]](https://arxiv.org/abs/2401.09682)[[code]](https://github.com/QiuRunwen/CategoryEncoderComparison)
+## In preparation
+
+1. **Ying Fu**, Ye Kwon Huh, and Kaibo Liu, "Dynamic sensor selection for remote prognostics. "
+2. **Ying Fu** and Kaibo Liu, "Reinforcement Learning-Based Strategies for Degradation and Maintenance Control."
 
 # Awards and Honors
 
@@ -41,15 +55,9 @@ Wenbin Zhu, Runwen Qiu, and **Ying Fu**. "Comparative Study on the Performance o
 - Chancellor’s Opportunity Award, University of Wisconsin-Madison (2022)
 - China National Scholarship, Ministry of Education of P. R. China (2017)
 
-# Educations
-
-- *2022.09 - Present*, Ph.D student, University of Wisconsin-Madison, WI, USA.
-- *2019.09 - 2022.06*, M.S., South China University of Technology, GuangZhou, China.
-- *2015.09 - 2019.06*, B.S., South China University of Technology, GuangZhou, China.
-
 # Teaching
 
-- ISyE 412: Fundamentals of Industrial Data Analytics – Teaching Assistant, Spring 2025
+- **Teaching Assistant**, ISyE/ME 412 “Fundamentals of industrial data analytics”, Dept. of Industrial and Systems Engineering, University of Wisconsin–Madison, undergraduate level, Spring 2025
 
 # Services
 
