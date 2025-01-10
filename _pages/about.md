@@ -25,14 +25,10 @@ My research focuses on leveraging **machine learning**, including **reinforcemen
 
 # Educations
 
-**Ph.D.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Industrial and Systems Engineering, University of Wisconsin-Madison, WI, USA, *Sep 2022 – present*  
-
-**M.S.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Computer Science, University of Wisconsin-Madison, WI, USA, *Sep 2022 – present*  
-
-**M.S.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Management Science and Engineering, South China University of Technology, Guangzhou, China, *Sep 2019 - Jun 2022* 
-
-**B.S.**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Polymer Materials and Engineering and Finance (Double Major), South China University of Technology, Guangzhou, China, *Sep 2015 - Jun 2019*  
-
+**Ph.D.**, Industrial and Systems Engineering, University of Wisconsin-Madison, WI, USA, *Sep 2022 – present*
+**M.S.**, Computer Science, University of Wisconsin-Madison, WI, USA, *Sep 2022 – present*
+**M.S.**, Management Science and Engineering, South China University of Technology, Guangzhou, China, *Sep 2019 - Jun 2022*
+**B.S.**, Polymer Materials and Engineering and Finance (Double Major), South China University of Technology, Guangzhou, China, *Sep 2015 - Jun 2019* 
 
 # Publications
 
