@@ -44,11 +44,6 @@ My research focuses on leveraging **machine learning**, including **reinforcemen
 2. Wenbin Zhu, Xiaoting Wu, **Ying Fu,** and Heng-Qing Ye, "Maximum homogeneity grouping for high-cardinality categorical variables in binary classification," under review. [[code]](https://github.com/ProfZHUWB/MHG)
 3. Wenbin Zhu, Runwen Qiu, and **Ying Fu**. "Comparative Study on the Performance of Categorical Variable Encoders in Classification and Regression Tasks," under review. [[paper]](https://arxiv.org/abs/2401.09682)[[code]](https://github.com/QiuRunwen/CategoryEncoderComparison)
 
-## In preparation
-
-1. **Ying Fu**, Ye Kwon Huh, and Kaibo Liu, "Dynamic sensor selection for remote prognostics. "
-2. **Ying Fu** and Kaibo Liu, "Reinforcement Learning-Based Strategies for Degradation and Maintenance Control."
-
 # Awards and Honors
 
 - ISyE Graduate Student Travel Awards, University of Wisconsin-Madison (2023)
