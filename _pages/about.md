@@ -13,7 +13,7 @@ I am a third-year Ph.D. candidate in [Industrial and Systems Engineering](https:
 
 **Contact**: ying.fu@wisc.edu
 
-My research focuses on developing advanced machine learning, including reinforcement learning, and optimization methods to enhance prediction and decision-making across various industrial applications. Key areas include:
+My research focuses on developing advanced **machine learning**, including **reinforcement learning**, and **optimization** methods to enhance prediction and decision-making across various industrial applications. Key areas include:
 
 - Foundational Machine Learning: instance selection and high-cardinality categorical variable encoding.
 - Discrete Optimization: 3D dynamic heterogeneous robotic palletization.
