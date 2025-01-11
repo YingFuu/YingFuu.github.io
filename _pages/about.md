@@ -13,7 +13,7 @@ I am a third-year Ph.D. candidate in [Industrial and Systems Engineering](https:
 
 **Contact**: ying.fu@wisc.edu
 
-My research focuses on leveraging **machine learning**, including **reinforcement learning**, and **optimization** techniques to enhance manufacturing systems. The primary focus areas include:
+My research focuses on developing advanced machine learning, including reinforcement learning, and optimization methods to enhance prediction and decision-making across various industrial applications. Key areas include:
 
 - Foundational Machine Learning: instance selection and high-cardinality categorical variable encoding.
 - Discrete Optimization: 3D dynamic heterogeneous robotic palletization.
@@ -25,13 +25,13 @@ My research focuses on leveraging **machine learning**, including **reinforcemen
 
 # Educations
 
-**Ph.D.**, Industrial and Systems Engineering, University of Wisconsin-Madison, WI, USA, *Sep 2022 – present*
+**Ph.D.**, Industrial and Systems Engineering, University of Wisconsin-Madison, *Sep 2022 – present*
 
-**M.S.**, Computer Science, University of Wisconsin-Madison, WI, USA, *Sep 2022 – present*
+**M.S.**, Computer Science, University of Wisconsin-Madison, *Sep 2022 – present*
 
-**M.S.**, Management Science and Engineering, South China University of Technology, Guangzhou, China, *Sep 2019 - Jun 2022*
+**M.S.**, Management Science and Engineering, South China University of Technology, *Sep 2019 - Jun 2022*
 
-**B.S.**, Polymer Materials and Engineering and Finance (Double Major), South China University of Technology, Guangzhou, China, *Sep 2015 - Jun 2019* 
+**B.S.**, Polymer Materials and Engineering and Finance (Double Major), South China University of Technology, *Sep 2015 - Jun 2019* 
 
 # Publications
 
