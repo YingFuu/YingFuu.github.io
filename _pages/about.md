@@ -65,4 +65,5 @@ My research focuses on developing advanced **machine learning**, including **rei
 
 # Hobbies and Interests
 
-Photography, badminton, hiking, and movies.
+In my free time, I am passionate about photography and hiking. I often capture photos during my hikes, and you can view my collection [here](https://www.flickr.com/photos/202095814@N04). Additionally, I enjoy playing badminton and watching movies.
+
