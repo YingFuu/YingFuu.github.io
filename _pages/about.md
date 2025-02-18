@@ -11,7 +11,7 @@ I am a third-year Ph.D. candidate in [Industrial and Systems Engineering](https:
 
 [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=Rm9d2l0AAAAJ) [[LinkedIn]](https://www.linkedin.com/in/ying-fu-302013252/) [[CV]](https://yingfuu.github.io//resume/Resume.pdf) (Last updated: Jan., 2025)
 
-**Contact**: ying.fu@wisc.edu
+**Contact**: [ying.fu@wisc.edu](ying.fu@wisc.edu)
 
 My research focuses on developing advanced **machine learning**, including **reinforcement learning**, and **optimization** methods to enhance prediction and decision-making across various industrial applications. Key areas include:
 
@@ -19,7 +19,7 @@ My research focuses on developing advanced **machine learning**, including **rei
 - Discrete Optimization: 3D dynamic heterogeneous robotic palletization.
 - Machine Learning and Optimization Integration: degradation modeling, prognostics and decision making.
 
-- Edge Computing for Distributed Systems.
+- Edge Computing for Intelligent Systems
 
 **I am actively seeking a Machine Learning Engineer/Scientist internship for Summer 2025. If you're interested in my work, feel free to reach out or email me!**
 
@@ -43,9 +43,10 @@ My research focuses on developing advanced **machine learning**, including **rei
 
 ## Under revision/review
 
-1. Ye Kwon Huh, **Ying Fu**, and Kaibo Liu, "A Bayesian spike-and-slab sensor selection approach for high-dimensional prognostics, " under revision.
-2. Wenbin Zhu, Xiaoting Wu, **Ying Fu,** and Heng-Qing Ye, "Maximum homogeneity grouping for high-cardinality categorical variables in binary classification," under review. [[code]](https://github.com/ProfZHUWB/MHG)
-3. Wenbin Zhu, Runwen Qiu, and **Ying Fu**. "Comparative Study on the Performance of Categorical Variable Encoders in Classification and Regression Tasks," under review. [[paper]](https://arxiv.org/abs/2401.09682)[[code]](https://github.com/QiuRunwen/CategoryEncoderComparison)
+1. **Ying Fu**, Ye Kwon Huh, and Kaibo Liu, "Dynamic sensor selection for remote prognostics, " under review. [[code]](https://github.com/YingFuu/DSS4RemotePrognostic)
+2. Ye Kwon Huh, **Ying Fu**, and Kaibo Liu, "A Bayesian spike-and-slab sensor selection approach for high-dimensional prognostics, " under revision.
+3. Wenbin Zhu, Xiaoting Wu, **Ying Fu,** and Heng-Qing Ye, "Maximum homogeneity grouping for high-cardinality categorical variables in binary classification," under review. [[code]](https://github.com/ProfZHUWB/MHG)
+4. Wenbin Zhu, Runwen Qiu, and **Ying Fu**. "Comparative Study on the Performance of Categorical Variable Encoders in Classification and Regression Tasks," under review. [[paper]](https://arxiv.org/abs/2401.09682)[[code]](https://github.com/QiuRunwen/CategoryEncoderComparison)
 
 # Awards and Honors
 
