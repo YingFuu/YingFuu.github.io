@@ -20,7 +20,7 @@ My research focuses on developing advanced **machine learning**, including **rei
 - Machine Learning and Optimization Integration: degradation modeling, prognostics and decision making.
 - Edge Computing for Intelligent Systems: Utilizing edge computing paradigms to provide real-time analytics and quick decision capabilities.
 
-Most recently, I have been exploring the integration of large language models (LLMs) into the decision-making pipeline, focusing on **LLM-guided dynamic task allocation** in fleet maintenance to leverage their reasoning capabilities for enhanced adaptive planning and coordination in complex multi-agent systems.
+Most recently, I have been exploring the integration of large language models (LLMs) into the decision-making pipeline, focusing on **LLM-guided dynamic task allocation** in fleet maintenance for enhanced adaptive planning and coordination in complex multi-agent systems.
 
 # Publications
 
