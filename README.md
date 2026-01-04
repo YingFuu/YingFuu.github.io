@@ -1,6 +1,6 @@
 # Hello, I am Ying Fu!
 
-I am a third-year Ph.D. candidate in Industrial and Systems Engineering at the University of Wisconsin–Madison. 
+I am a forth-year Ph.D. student in Industrial and Systems Engineering at the University of Wisconsin–Madison. 
 
 My research leverages machine learning, including reinforcement learning, and optimization techniques to enhance manufacturing systems. My primary areas of focus are:
 
