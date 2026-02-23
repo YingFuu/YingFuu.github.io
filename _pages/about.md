@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. student in [Industrial and Systems Engineering](https://engineering.wisc.edu/departments/industrial-systems-engineering/) at the [University of Wisconsin–Madison](https://www.wisc.edu/), advised by [Prof. Kaibo Liu](https://kaibo.ie.wisc.edu/). Before joining UW–Madison, I earned a B.S. in Engineering and Finance (double major) and an M.S. in Management Science and Engineering from the South China University of Technology, advised by [Prof. Wenbin Zhu](https://scholar.google.com/citations?hl=en&user=dnmQM1YAAAAJ&view_op=list_works&sortby=pubdate).
+I am a fourth-year Ph.D. student in [Industrial and Systems Engineering](https://engineering.wisc.edu/departments/industrial-systems-engineering/) at the [University of Wisconsin–Madison](https://www.wisc.edu/), advised by [Prof. Kaibo Liu](https://kaibo.ie.wisc.edu/). I earned a B.S. in Engineering and Finance (double major) in 2019 and an M.S. in Management Science and Engineering from South China University of Technology in 2022. I also received an M.S. in Computer Science from the University of Wisconsin–Madison in 2025.
 
-[[Google Scholar]](https://scholar.google.com/citations?hl=en&user=Rm9d2l0AAAAJ) [[LinkedIn]](https://www.linkedin.com/in/ying-fu-302013252/) [[CV]](https://yingfuu.github.io//resume/Resume.pdf) (Last updated: Jan., 2026)
+[[Google Scholar]](https://scholar.google.com/citations?hl=en&user=Rm9d2l0AAAAJ) [[LinkedIn]](https://www.linkedin.com/in/ying-fu-302013252/) [[CV]](https://yingfuu.github.io//resume/Resume.pdf) (Last updated: Feb., 2026)
 
 **Contact**: [ying.fu@wisc.edu](ying.fu@wisc.edu)
 
