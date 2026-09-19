@@ -7,55 +7,48 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. student in [Industrial and Systems Engineering](https://engineering.wisc.edu/departments/industrial-systems-engineering/) at the [University of Wisconsin–Madison](https://www.wisc.edu/), advised by [Prof. Kaibo Liu](https://kaibo.ie.wisc.edu/). I earned a B.S. in Engineering and Finance (double major) in 2019 and an M.S. in Management Science and Engineering from South China University of Technology in 2022. I also received an M.S. in Computer Science from the University of Wisconsin–Madison in 2025.
+I am a Ph.D. candidate in [Industrial and Systems Engineering](https://engineering.wisc.edu/departments/industrial-systems-engineering/) at the [University of Wisconsin–Madison](https://www.wisc.edu/), advised by [Prof. Kaibo Liu](https://kaibo.ie.wisc.edu/), and expect to graduate in May 2027. My thesis is *Degradation-Aware Learning and Optimization: Modeling, Remote Prognostics, and Proactive Maintenance in Smart and Connected Manufacturing Systems*.
 
-[[Google Scholar]](https://scholar.google.com/citations?hl=en&user=Rm9d2l0AAAAJ) [[LinkedIn]](https://www.linkedin.com/in/ying-fu-302013252/) [[CV]](https://yingfuu.github.io//resume/Resume.pdf) (Last updated: Feb., 2026)
+Before that, I earned an M.S. in Computer Science from UW–Madison (2025), an M.S. in Management Science and Engineering (2022), and a B.Eng. in Polymer Materials and Engineering with a double degree in Finance (2019), both from South China University of Technology.
 
-**Contact**: [ying.fu@wisc.edu](ying.fu@wisc.edu)
+[[Google Scholar]](https://scholar.google.com/citations?hl=en&user=Rm9d2l0AAAAJ) [[LinkedIn]](https://www.linkedin.com/in/ying-fu-302013252/) [[CV]](https://yingfuu.github.io/resume/Resume.pdf) (Last updated: Sep., 2026)
 
-My research focuses on developing advanced **machine learning**, including **reinforcement learning**, and **optimization** methods to enhance prediction and decision-making across various industrial applications. Key areas include:
+**Contact**: [ying.fu@wisc.edu](mailto:ying.fu@wisc.edu)
 
-- Foundational Machine Learning: instance selection and high-cardinality categorical variable encoding.
-- Discrete Optimization: 3D dynamic heterogeneous robotic palletization.
-- Machine Learning and Optimization Integration: degradation modeling, prognostics, and decision making.
-- Intelligent and connected systems (IoT, edge computing)
+# Research Interests
 
-# Publications
+- **Methodology**: degradation modeling and prognostics; machine learning and AI (deep learning, LLMs, and generative models); digital twins; reinforcement learning; optimization and data-driven decision-making.
+- **Applications**: smart manufacturing; logistics robotics; fusion facilities and nuclear energy systems.
 
-## Published or Accepted
+See [Research](/research/) for details and [Publications](/publications/) for papers and code.
 
-1. **Ying Fu**, Ye Kwon Huh, and Kaibo Liu, "Dynamic sensor selection for remote prognostics, " under review. [[paper]](https://www.tandfonline.com/doi/abs/10.1080/24725854.2025.2598633)[[code]](https://github.com/YingFuu/DSS4RemotePrognostic)
-1. **Ying Fu**, Kaibo Liu, and Wenbin Zhu.  " Instance Selection Via Voronoi Neighbors for Binary Classification Tasks." *IEEE Transactions on Knowledge and Data Engineering (2023)*. (The Best Paper Finalist award in the DAIS Section of Industrial and Systems Engineering Research Conference (ISERC), 2023). [[paper]](https://www.computer.org/csdl/journal/tk/2024/08/10313971/1RVV9fLvjAA)[[code]](https://github.com/ProfZHUWB/PDOC-V)
-1. **Ying Fu**, Ye Kwon Huh, and Kaibo Liu, "Degradation Modeling and Prognostic Analysis Under Unknown Failure Modes." *IEEE Transactions on Automation Science and Engineering (2025)*. [[paper]](https://arxiv.org/abs/2402.19294)[[code]](https://github.com/YingFuu/ProgUnknownFMs)
-1. Ye Kwon Huh, **Ying Fu**, and Kaibo Liu, "A Bayesian spike-and-slab sensor selection approach for high-dimensional prognostics. " *IEEE Transactions on Automation Science and Engineering (2025)*.[[paper]](https://ieeexplore.ieee.org/document/10942441?denied=)
-1. Wenbin Zhu, **Ying Fu**, and You Zhou. "3D dynamic heterogeneous robotic palletization problem." *European Journal of Operational Research (2024)*. [[paper]](https://www.sciencedirect.com/science/article/pii/S0377221724000985)[[code]](https://github.com/ProfZHUWB/3DORP)
+# News
 
-## Under revision/review
+- **Sep 2026**: "Dynamic Sensor Selection for Remote Prognostics" appears in *IISE Transactions* as a **feature article** of the September issue.
+- **Aug 2026**: Delivered a hands-on tutorial on designing and deploying AI agents locally for industry professionals. See [Tutorials](/tutorials/).
+- **2026–2027**: Awarded the Grainger Wisconsin Distinguished Graduate Fellowship.
+- **Nov 2026**: Will present and chair an invited session at the INFORMS Annual Meeting, San Francisco.
 
-1. Ye Kwon Huh, **Ying Fu**, and Kaibo Liu, "An uncertainty-informed neural network-based (UINN) prognostic model for multi-type data," under revision. 
-2. Wenbin Zhu, Xiaoting Wu, **Ying Fu,** and Heng-Qing Ye, "Maximum homogeneity grouping for high-cardinality categorical variables in binary classification," under revision. [[code]](https://github.com/ProfZHUWB/MHG)
-3. Wenbin Zhu, Runwen Qiu, and **Ying Fu**. "Comparative Study on the Performance of Categorical Variable Encoders in Classification and Regression Tasks," under review. [[paper]](https://arxiv.org/abs/2401.09682)[[code]](https://github.com/QiuRunwen/CategoryEncoderComparison)
+# Honors and Awards
 
-# Awards and Honors
+- Grainger Wisconsin Distinguished Graduate Fellowship, 2026–2027
+- Feature Article Selection, *IISE Transactions*, 2026
+- Campus-Wide Teaching Assistant Award Nominee, Dept. of ISyE, UW–Madison, 2025–2026
+- IISE Future Faculty Fellow (3F), IISE, 2025–2026
+- Narayan–Chen Family Graduate Student Support Fund Scholarship, UW–Madison, 2025
+- Best Paper Finalist, DAIS Section, IISE Annual Conference & Expo, 2023
+- ISyE Graduate Student Travel Award, UW–Madison, 2023
+- Chancellor's Opportunity Award, UW–Madison, 2022
+- National Scholarship, Ministry of Education of China, 2017
 
-- Campus-Wide Teaching Assistant Award Nominee, University of Wisconsin-Madison (2025)
-- IISE Future Faculty Fellow (3F), Institute of Industrial and Systems Engineers, 2025-2026
-- Narayan--Chen Family Graduate Student Support Fund Scholarship, University of Wisconsin–Madison, 2025
-- ISyE Graduate Student Travel Awards, University of Wisconsin-Madison (2023)
-- Chancellor’s Opportunity Award, University of Wisconsin-Madison (2022)
-- China National Scholarship, Ministry of Education of P. R. China (2017)
+# Professional Activities
 
-# Teaching
-
-- **Teaching Assistant**, ISyE/ME 412 “Fundamentals of industrial data analytics”, Dept. of Industrial and Systems Engineering, University of Wisconsin–Madison, undergraduate level, Spring 2025, Fall 2025
-
-# Services
-
-- Journal reviewer: IEEE Transactions on Automation Science and Engineering (TASE), IEEE Transactions on Knowledge and Data Engineering (TKDE)
-- Membership: INFORMS, IISE, and SME
-- Vice President of the SME Student Chapter, 2023-2025
+- **Reviewer**: IEEE Transactions on Automation Science and Engineering; IEEE Transactions on Knowledge and Data Engineering; IISE Annual Conference & Expo
+- **Invited Session Chair**, INFORMS Annual Meeting: 2026 (San Francisco), 2025 (Atlanta)
+- **Panelist**: Graduate Seminar in Industrial Engineering (Fall 2025); ISyE Student Research Symposium (Spring 2026)
+- **Vice President**, SME Student Chapter, UW–Madison, 2022–2024
+- **Memberships**: INFORMS, IISE, IEEE, SME
 
 # Hobbies and Interests
 
 In my free time, I am passionate about photography and hiking. I often capture photos during my hikes, and you can view my collection [here](https://www.flickr.com/photos/202095814@N04). Additionally, I enjoy playing badminton and watching movies.
-
