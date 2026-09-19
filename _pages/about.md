@@ -30,9 +30,7 @@ I am a fifth-year Ph.D. candidate in the [Department of Industrial and Systems E
 ## Application Areas
 
 - Smart Manufacturing
-
 - Logistics Robotics
-
 - Fusion Facilities and Nuclear Energy Systems
 
   
