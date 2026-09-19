@@ -114,3 +114,13 @@ $accent: #52adc8;
 .page__content li ul, .page__content li ol { margin-top: 0.15em; }
 .page__content ul, .page__content ol { margin-bottom: 0.8em; }
 .page__content li > p { margin: 0; }
+
+// Highlight box (e.g. job-market notice)
+.callout {
+  margin: 1em 0;
+  padding: .8em 1.1em;
+  background: #e8f1fb;
+  border-left: 4px solid #1a73e8;
+  border-radius: 6px;
+  font-weight: 500;
+}

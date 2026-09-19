@@ -13,6 +13,8 @@ I am a fifth-year Ph.D. candidate in the [Department of Industrial and Systems E
   <a class="btn btn--primary" href="https://scholar.google.com/citations?hl=en&user=Rm9d2l0AAAAJ"><i class="ai ai-google-scholar"></i> Google Scholar</a>
   <a class="btn btn--primary" href="mailto:ying.fu@wisc.edu"><i class="fas fa-envelope"></i> Email</a>
 </div>
+<div class="callout">📢 I am on the 2026–2027 academic job market and seeking faculty positions.</div>
+
 <small>last updated: Sep. 2026</small>
 
 
