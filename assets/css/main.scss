@@ -39,3 +39,69 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+// ---- Custom page components ----
+$accent: #52adc8;
+
+.page__content h2 i { color: $accent; margin-right: .35em; font-size: .8em; }
+
+// Publications: thumbnail on the left, details on the right
+.pub-item {
+  display: flex;
+  gap: 1.4em;
+  align-items: flex-start;
+  margin: 1.6em 0;
+  padding-bottom: 1.4em;
+  border-bottom: 1px dashed #e5e5e5;
+}
+.pub-thumb {
+  position: relative;
+  flex: 0 0 200px;
+  img { display: block; width: 100%; border-radius: 6px; box-shadow: 0 3px 12px rgba(0,0,0,.18); }
+}
+.pub-thumb__empty {
+  display: flex; align-items: center; justify-content: center;
+  width: 100%; aspect-ratio: 4 / 3; border-radius: 6px;
+  background: linear-gradient(135deg, #eef3f5, #dfe8ec);
+  color: #b5c4cb; font-size: 2.4em;
+}
+.pub-badge {
+  position: absolute; top: 8px; left: 0;
+  padding: .15em .7em; font-size: .72em; font-weight: 700;
+  color: #fff; background: $accent; border-radius: 0 4px 4px 0;
+}
+.pub-body { flex: 1; min-width: 0; }
+.pub-title { font-size: 1.05em; font-weight: 600; line-height: 1.4; margin-bottom: .25em; }
+.pub-authors { font-size: .92em; }
+.pub-venue { font-size: .9em; font-style: italic; color: #666; margin: .2em 0; }
+.pub-award { font-size: .88em; font-weight: 600; color: #c0392b; margin: .2em 0; }
+.pub-award i { margin-right: .3em; }
+.pub-links { margin-top: .6em; }
+.pub-btn {
+  display: inline-block; margin: 0 .5em .3em 0; padding: .15em .9em;
+  font-size: .82em; border: 1px solid #555; border-radius: 4px;
+  color: #333; text-decoration: none;
+}
+.pub-btn:hover { background: $accent; border-color: $accent; color: #fff; }
+@media (max-width: 600px) {
+  .pub-item { flex-direction: column; }
+  .pub-thumb { flex-basis: auto; width: 100%; max-width: 320px; }
+}
+
+// Tutorial / info cards
+.card-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1.1em; margin: 1.2em 0; }
+.card {
+  border: 1px solid #e5e5e5; border-top: 4px solid $accent; border-radius: 6px;
+  padding: 1em 1.2em; background: #fff; box-shadow: 0 2px 8px rgba(0,0,0,.05);
+  h3 { margin: .2em 0 .4em; font-size: 1.05em; line-height: 1.35; }
+  p { margin: .3em 0; font-size: .9em; }
+  .card-meta { font-size: .8em; color: #777; }
+  .card-meta i { color: $accent; margin: 0 .25em 0 .6em; }
+  .card-meta i:first-child { margin-left: 0; }
+}
+
+// Home buttons and news
+.btn-row { margin: 1em 0; }
+.btn-row .btn { margin: 0 .4em .4em 0; }
+.news-list { list-style: none; padding-left: 0; }
+.news-list li { margin-bottom: .55em; }
+.news-list .date { display: inline-block; min-width: 6em; font-weight: 700; color: darken($accent, 12%); }

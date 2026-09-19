@@ -1,0 +1,30 @@
+{% comment %}
+  Usage: {% include pub-list.html group="published" %}
+  Data: _data/publications.yml. Images: /images/publications/<image>.
+{% endcomment %}
+{% assign pubs = site.data.publications | where: "group", include.group %}
+<div class="pub-list">
+{% for p in pubs %}
+  <div class="pub-item">
+    <div class="pub-thumb">
+      {% if p.image and p.image != "" %}
+        <img src="{{ site.baseurl }}/images/publications/{{ p.image }}" alt="{{ p.title | escape }}">
+      {% else %}
+        <div class="pub-thumb__empty"><i class="fas fa-file-alt"></i></div>
+      {% endif %}
+      {% if p.badge %}<span class="pub-badge">{{ p.badge }}</span>{% endif %}
+    </div>
+    <div class="pub-body">
+      <div class="pub-title">{{ p.title }}</div>
+      <div class="pub-authors">{{ p.authors | markdownify | remove: "<p>" | remove: "</p>" }}</div>
+      <div class="pub-venue">{{ p.venue }}{% if p.year and p.year != "" %}, {{ p.year }}{% endif %}</div>
+      {% if p.award %}<div class="pub-award"><i class="fas fa-fire"></i> {{ p.award }}</div>{% endif %}
+      {% if p.links and p.links.size > 0 %}
+      <div class="pub-links">
+        {% for l in p.links %}<a class="pub-btn" href="{{ l.url }}">{{ l.label }}</a>{% endfor %}
+      </div>
+      {% endif %}
+    </div>
+  </div>
+{% endfor %}
+</div>
