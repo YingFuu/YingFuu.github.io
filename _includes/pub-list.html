@@ -1,18 +1,20 @@
 {% comment %}
-  Usage: {% include pub-list.html group="published" %}   (one group)
+  Usage: {% include pub-list.html %}                (entries with selected: true)
          {% include pub-list.html featured=true %}       (entries with featured: true)
   Data: _data/publications.yml. Images: /images/publications/<image>.
 {% endcomment %}
 {% if include.featured %}
   {% assign pubs = site.data.publications | where: "featured", true %}
 {% else %}
-  {% assign pubs = site.data.publications | where: "group", include.group %}
+  {% assign pubs = site.data.publications | where: "selected", true %}
 {% endif %}
 <div class="pub-list">
 {% for p in pubs %}
   <div class="pub-item">
     <div class="pub-thumb">
-      {% if p.image and p.image != "" %}
+      {% if p.video and p.video != "" %}
+        <video autoplay muted loop playsinline preload="metadata"{% if p.image and p.image != "" %} poster="{{ site.baseurl }}/images/publications/{{ p.image }}"{% endif %}><source src="{{ site.baseurl }}/images/publications/{{ p.video }}" type="video/mp4"></video>
+      {% elsif p.image and p.image != "" %}
         <img src="{{ site.baseurl }}/images/publications/{{ p.image }}" alt="{{ p.title | escape }}">
       {% else %}
         <div class="pub-thumb__empty"><i class="fas fa-file-alt"></i></div>

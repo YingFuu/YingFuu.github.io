@@ -1,38 +1,84 @@
-# One entry per paper. Shown on /publications/ (see _includes/pub-list.html).
+# One entry per paper.
 #
-# group : published | review | prep
-# image : file name inside /images/publications/ (optional; a placeholder is shown if empty)
-# badge : short label on the thumbnail, e.g. the journal abbreviation
-# award : optional highlight line (feature article, best paper, ...)
-# links : list of {label, url}; leave empty for none
+# selected : true  -> shown on /publications/ (Selected Publications). Others are kept here but hidden.
+# featured : true  -> also shown in "Selected Publications" on the home page
+# image    : file name inside /images/publications/ (placeholder shown if empty)
+# video    : optional file in /images/publications/; plays (muted, looping) in place of the image
+# badge    : short label on the thumbnail
+# award    : optional highlight line
+# links    : list of {label, url}
 
-- group: published
-  title: "Dynamic Sensor Selection for Remote Prognostics"
+- selected: true
   featured: true
+  title: "Dynamic Sensor Selection for Remote Prognostics"
   authors: "**Ying Fu**, Ye Kwon Huh, and Kaibo Liu"
   venue: "IISE Transactions, 58(9):1111-1125"
   year: 2026
   badge: "IISE Trans."
-  image: ""
+  image: "sensor_selection.png"
   award: "Feature article, September 2026 issue"
   links:
     - {label: "Paper", url: "https://www.tandfonline.com/doi/abs/10.1080/24725854.2025.2598633"}
     - {label: "Code", url: "https://github.com/YingFuu/DSS4RemotePrognostic"}
 
-- group: published
-  title: "Degradation Modeling and Prognostic Analysis Under Unknown Failure Modes"
+- selected: true
+  title: "A Degradation-Aware Cross-Attention Framework for Multimodal Prognostics with Discrete Event Logs and Continuous Sensor Signals"
+  authors: "**Ying Fu**, Ye Kwon Huh, and Kaibo Liu"
+  venue: "IISE Transactions, under revision"
+  year: ""
+  badge: "Under revision"
+  image: "event_signal.png"
+  links: []
+
+- selected: true
+  title: "Fleet Maintenance and Workload Allocation under Unknown Degradation Dynamics: A Learning and Optimization Approach"
+  authors: "**Ying Fu** and Kaibo Liu"
+  venue: "To be submitted to Manufacturing & Service Operations Management"
+  year: ""
+  badge: "In prep."
+  image: "proactive_maintenance.png"
+  links: []
+
+- selected: true
   featured: true
+  title: "Degradation Modeling and Prognostic Analysis Under Unknown Failure Modes"
   authors: "**Ying Fu**, Ye Kwon Huh, and Kaibo Liu"
   venue: "IEEE Transactions on Automation Science and Engineering, 22:11012-11025"
   year: 2025
   badge: "IEEE TASE"
-  image: ""
+  image: "unknown_failure_mode.png"
   links:
     - {label: "Paper", url: "https://arxiv.org/abs/2402.19294"}
     - {label: "Code", url: "https://github.com/YingFuu/ProgUnknownFMs"}
 
-- group: published
-  title: "A Bayesian Spike-and-Slab Sensor Selection Approach for High-Dimensional Prognostics"
+- selected: true
+  title: "3D Dynamic Heterogeneous Robotic Palletization Problem"
+  authors: "Wenbin Zhu, **Ying Fu**, and You Zhou"
+  venue: "European Journal of Operational Research, 316(2):584-596"
+  year: 2024
+  badge: "EJOR"
+  image: "robotic-packing.png"
+  video: "3d-packing-demo.mp4"
+  links:
+    - {label: "Paper", url: "https://www.sciencedirect.com/science/article/pii/S0377221724000985"}
+    - {label: "Code", url: "https://github.com/ProfZHUWB/3DORP"}
+
+- selected: true
+  featured: true
+  title: "Instance Selection via Voronoi Neighbors for Binary Classification Tasks"
+  authors: "**Ying Fu**, Kaibo Liu, and Wenbin Zhu"
+  venue: "IEEE Transactions on Knowledge and Data Engineering, 36(8):3921-3933"
+  year: 2024
+  badge: "IEEE TKDE"
+  image: "instance_selection.png"
+  award: "Best Paper Finalist, DAIS Section, IISE Annual Conference & Expo, 2023"
+  links:
+    - {label: "Paper", url: "https://www.computer.org/csdl/journal/tk/2024/08/10313971/1RVV9fLvjAA"}
+    - {label: "Code", url: "https://github.com/ProfZHUWB/PDOC-V"}
+
+# ---- Not shown on the site (no figure yet). Add `selected: true` to show. ----
+
+- title: "A Bayesian Spike-and-Slab Sensor Selection Approach for High-Dimensional Prognostics"
   authors: "Ye Kwon Huh, **Ying Fu**, and Kaibo Liu"
   venue: "IEEE Transactions on Automation Science and Engineering, 22:13814-13827"
   year: 2025
@@ -41,50 +87,7 @@
   links:
     - {label: "Paper", url: "https://ieeexplore.ieee.org/document/10942441"}
 
-- group: published
-  title: "3D Dynamic Heterogeneous Robotic Palletization Problem"
-  authors: "Wenbin Zhu, **Ying Fu**, and You Zhou"
-  venue: "European Journal of Operational Research, 316(2):584-596"
-  year: 2024
-  badge: "EJOR"
-  image: ""
-  links:
-    - {label: "Paper", url: "https://www.sciencedirect.com/science/article/pii/S0377221724000985"}
-    - {label: "Code", url: "https://github.com/ProfZHUWB/3DORP"}
-
-- group: published
-  title: "Instance Selection via Voronoi Neighbors for Binary Classification Tasks"
-  featured: true
-  authors: "**Ying Fu**, Kaibo Liu, and Wenbin Zhu"
-  venue: "IEEE Transactions on Knowledge and Data Engineering, 36(8):3921-3933"
-  year: 2024
-  badge: "IEEE TKDE"
-  image: ""
-  award: "Best Paper Finalist, DAIS Section, IISE Annual Conference & Expo, 2023"
-  links:
-    - {label: "Paper", url: "https://www.computer.org/csdl/journal/tk/2024/08/10313971/1RVV9fLvjAA"}
-    - {label: "Code", url: "https://github.com/ProfZHUWB/PDOC-V"}
-
-- group: published
-  title: "A Novel Conductive Core-Shell Particle Based on Liquid Metal for Fabricating Real-Time Self-Repairing Flexible Circuits"
-  authors: "R. Zheng, Z. Peng, **Ying Fu**, Z. Deng, S. Liu, S. Xing, Y. Wu, J. Li, and L. Liu"
-  venue: "Advanced Functional Materials, 30(15):1910524"
-  year: 2020
-  badge: "Adv. Funct. Mater."
-  image: ""
-  links: []
-
-- group: review
-  title: "A Degradation-Aware Cross-Attention Framework for Multimodal Prognostics with Discrete Event Logs and Continuous Sensor Signals"
-  authors: "**Ying Fu**, Ye Kwon Huh, and Kaibo Liu"
-  venue: "IISE Transactions, under revision"
-  year: ""
-  badge: "Under revision"
-  image: ""
-  links: []
-
-- group: review
-  title: "Comparative Study on the Performance of Categorical Variable Encoders in Classification and Regression Tasks"
+- title: "Comparative Study on the Performance of Categorical Variable Encoders in Classification and Regression Tasks"
   authors: "Wenbin Zhu, Runwen Qiu, and **Ying Fu**"
   venue: "Data Mining and Knowledge Discovery, under review"
   year: ""
@@ -94,17 +97,7 @@
     - {label: "Paper", url: "https://arxiv.org/abs/2401.09682"}
     - {label: "Code", url: "https://github.com/QiuRunwen/CategoryEncoderComparison"}
 
-- group: prep
-  title: "Fleet Maintenance and Workload Allocation under Unknown Degradation Dynamics: A Learning and Optimization Approach"
-  authors: "**Ying Fu** and Kaibo Liu"
-  venue: "To be submitted to Manufacturing & Service Operations Management"
-  year: ""
-  badge: "In prep."
-  image: ""
-  links: []
-
-- group: prep
-  title: "Large Language Models for Extracting Operational Knowledge from Unstructured Records in Nuclear Energy Systems"
+- title: "Large Language Models for Extracting Operational Knowledge from Unstructured Records in Nuclear Energy Systems"
   authors: "**Ying Fu** and Kaibo Liu"
   venue: "In preparation"
   year: ""
@@ -112,11 +105,18 @@
   image: ""
   links: []
 
-- group: prep
-  title: "Event-Based Control for Proactive Degradation Management"
+- title: "Event-Based Control for Proactive Degradation Management"
   authors: "**Ying Fu**, J. Lee, and Kaibo Liu"
   venue: "In preparation"
   year: ""
   badge: "In prep."
+  image: ""
+  links: []
+
+- title: "A Novel Conductive Core-Shell Particle Based on Liquid Metal for Fabricating Real-Time Self-Repairing Flexible Circuits"
+  authors: "R. Zheng, Z. Peng, **Ying Fu**, Z. Deng, S. Liu, S. Xing, Y. Wu, J. Li, and L. Liu"
+  venue: "Advanced Functional Materials, 30(15):1910524"
+  year: 2020
+  badge: "Adv. Funct. Mater."
   image: ""
   links: []
