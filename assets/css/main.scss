@@ -105,3 +105,6 @@ $accent: #52adc8;
 .news-list { list-style: none; padding-left: 0; }
 .news-list li { margin-bottom: .55em; }
 .news-list .date { display: inline-block; min-width: 6em; font-weight: 700; color: darken($accent, 12%); }
+
+.pub-links a { border: 0; text-decoration: none; margin-right: .3em; }
+.pub-links img { display: inline-block; height: 20px; width: auto; margin: 0; vertical-align: middle; }

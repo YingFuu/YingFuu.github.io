@@ -1,8 +1,13 @@
 {% comment %}
-  Usage: {% include pub-list.html group="published" %}
+  Usage: {% include pub-list.html group="published" %}   (one group)
+         {% include pub-list.html featured=true %}       (entries with featured: true)
   Data: _data/publications.yml. Images: /images/publications/<image>.
 {% endcomment %}
-{% assign pubs = site.data.publications | where: "group", include.group %}
+{% if include.featured %}
+  {% assign pubs = site.data.publications | where: "featured", true %}
+{% else %}
+  {% assign pubs = site.data.publications | where: "group", include.group %}
+{% endif %}
 <div class="pub-list">
 {% for p in pubs %}
   <div class="pub-item">
@@ -18,10 +23,16 @@
       <div class="pub-title">{{ p.title }}</div>
       <div class="pub-authors">{{ p.authors | markdownify | remove: "<p>" | remove: "</p>" }}</div>
       <div class="pub-venue">{{ p.venue }}{% if p.year and p.year != "" %}, {{ p.year }}{% endif %}</div>
-      {% if p.award %}<div class="pub-award"><i class="fas fa-fire"></i> {{ p.award }}</div>{% endif %}
+      {% if p.award %}<div class="pub-award">🔥 {{ p.award }}</div>{% endif %}
       {% if p.links and p.links.size > 0 %}
       <div class="pub-links">
-        {% for l in p.links %}<a class="pub-btn" href="{{ l.url }}">{{ l.label }}</a>{% endfor %}
+        {% for l in p.links %}
+          {% if l.label == "Code" %}
+            <a href="{{ l.url }}"><img src="https://img.shields.io/badge/-Code-blue?logo=github" alt="Code"></a>
+          {% else %}
+            <a href="{{ l.url }}"><img src="https://img.shields.io/badge/-{{ l.label | url_encode }}-grey?logo=gitbook&logoColor=white" alt="{{ l.label }}"></a>
+          {% endif %}
+        {% endfor %}
       </div>
       {% endif %}
     </div>

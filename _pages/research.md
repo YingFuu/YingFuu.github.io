@@ -10,7 +10,7 @@ My research develops **degradation-aware learning and optimization** methods for
 
 **Applications**: smart manufacturing; logistics robotics; fusion facilities and nuclear energy systems.
 
-## <i class="fas fa-heartbeat"></i> Degradation Modeling and Remote Prognostics
+## 🩺 Degradation Modeling and Remote Prognostics
 
 Predicting remaining life from sensor and event data, including under unknown failure modes and with limited communication or sensing budgets.
 
@@ -19,7 +19,7 @@ Predicting remaining life from sensor and event data, including under unknown fa
 - [A Bayesian Spike-and-Slab Sensor Selection Approach for High-Dimensional Prognostics](https://ieeexplore.ieee.org/document/10942441), *IEEE TASE* (2025).
 - A degradation-aware cross-attention framework for multimodal prognostics with discrete event logs and continuous sensor signals (under revision).
 
-## <i class="fas fa-tools"></i> Proactive Maintenance and Decision-Making
+## 🛠 Proactive Maintenance and Decision-Making
 
 Using learning and optimization to decide when to maintain and how to allocate work across a fleet of degrading assets.
 
@@ -27,17 +27,17 @@ Using learning and optimization to decide when to maintain and how to allocate w
 - Event-based control for proactive degradation management (in preparation).
 - Reinforcement learning for degradation control and maintenance.
 
-## <i class="fas fa-atom"></i> AI for Nuclear Energy and Advanced Systems
+## ⚛️ AI for Nuclear Energy and Advanced Systems
 
 Extracting operational knowledge from unstructured records with large language models, and fleet-level monitoring and maintenance of advanced microreactors and multi-vehicle systems.
 
-## <i class="fas fa-project-diagram"></i> Foundational Machine Learning and Optimization
+## 🧠 Foundational Machine Learning and Optimization
 
 - [Instance Selection via Voronoi Neighbors for Binary Classification Tasks](https://www.computer.org/csdl/journal/tk/2024/08/10313971/1RVV9fLvjAA), *IEEE TKDE* (2024). Best Paper Finalist, IISE 2023. [[code]](https://github.com/ProfZHUWB/PDOC-V)
 - [Comparative Study on the Performance of Categorical Variable Encoders](https://arxiv.org/abs/2401.09682) (under review). [[code]](https://github.com/QiuRunwen/CategoryEncoderComparison)
 - [3D Dynamic Heterogeneous Robotic Palletization Problem](https://www.sciencedirect.com/science/article/pii/S0377221724000985), *European Journal of Operational Research* (2024). [[code]](https://github.com/ProfZHUWB/3DORP)
 
-## <i class="fas fa-microphone"></i> Invited Presentations
+## 🎤 Invited Presentations
 
 - **Maintenance and Workload Allocation under Unknown Degradation Dynamics: A Learning and Optimization Approach**, INFORMS Annual Conference, San Francisco, CA, 11/2026
 - **Degradation Control and Maintenance via Reinforcement Learning**, INFORMS Annual Conference, Atlanta, GA, 10/2025

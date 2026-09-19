@@ -22,14 +22,14 @@ Before that, I earned an M.S. in Computer Science from UW–Madison (2025), an M
 <small>CV last updated: Sep. 2026</small>
 
 
-# <i class="fas fa-flask"></i> Research Interests
+# 🔬 Research Interests
 
 - **Methodology**: degradation modeling and prognostics; machine learning and AI (deep learning, LLMs, and generative models); digital twins; reinforcement learning; optimization and data-driven decision-making.
 - **Applications**: smart manufacturing; logistics robotics; fusion facilities and nuclear energy systems.
 
 See [Research](/research/) for details and [Publications](/publications/) for papers and code.
 
-# <i class="fas fa-bullhorn"></i> News
+# 🔥 News
 
 <ul class="news-list">
   <li><span class="date">Sep 2026</span> "Dynamic Sensor Selection for Remote Prognostics" appears in <em>IISE Transactions</em> as a <strong>feature article</strong> of the September issue.</li>
@@ -38,7 +38,13 @@ See [Research](/research/) for details and [Publications](/publications/) for pa
   <li><span class="date">Nov 2026</span> Will present and chair an invited session at the INFORMS Annual Meeting, San Francisco.</li>
 </ul>
 
-# <i class="fas fa-trophy"></i> Honors and Awards
+# 📝 Selected Publications
+
+{% include pub-list.html featured=true %}
+
+[Full publication list →](/publications/)
+
+# 🎖 Honors and Awards
 
 - Grainger Wisconsin Distinguished Graduate Fellowship, 2026–2027
 - Feature Article Selection, *IISE Transactions*, 2026
@@ -50,7 +56,7 @@ See [Research](/research/) for details and [Publications](/publications/) for pa
 - Chancellor's Opportunity Award, UW–Madison, 2022
 - National Scholarship, Ministry of Education of China, 2017
 
-# <i class="fas fa-users"></i> Professional Activities
+# 🤝 Professional Activities
 
 - **Reviewer**: IEEE Transactions on Automation Science and Engineering; IEEE Transactions on Knowledge and Data Engineering; IISE Annual Conference & Expo
 - **Invited Session Chair**, INFORMS Annual Meeting: 2026 (San Francisco), 2025 (Atlanta)
@@ -58,6 +64,6 @@ See [Research](/research/) for details and [Publications](/publications/) for pa
 - **Vice President**, SME Student Chapter, UW–Madison, 2022–2024
 - **Memberships**: INFORMS, IISE, IEEE, SME
 
-# <i class="fas fa-camera-retro"></i> Hobbies and Interests
+# 📷 Hobbies and Interests
 
 In my free time, I am passionate about photography and hiking. I often capture photos during my hikes, and you can view my collection [here](https://www.flickr.com/photos/202095814@N04). Additionally, I enjoy playing badminton and watching movies.

@@ -8,6 +8,7 @@
 
 - group: published
   title: "Dynamic Sensor Selection for Remote Prognostics"
+  featured: true
   authors: "**Ying Fu**, Ye Kwon Huh, and Kaibo Liu"
   venue: "IISE Transactions, 58(9):1111-1125"
   year: 2026
@@ -20,6 +21,7 @@
 
 - group: published
   title: "Degradation Modeling and Prognostic Analysis Under Unknown Failure Modes"
+  featured: true
   authors: "**Ying Fu**, Ye Kwon Huh, and Kaibo Liu"
   venue: "IEEE Transactions on Automation Science and Engineering, 22:11012-11025"
   year: 2025
@@ -52,6 +54,7 @@
 
 - group: published
   title: "Instance Selection via Voronoi Neighbors for Binary Classification Tasks"
+  featured: true
   authors: "**Ying Fu**, Kaibo Liu, and Wenbin Zhu"
   venue: "IEEE Transactions on Knowledge and Data Engineering, 36(8):3921-3933"
   year: 2024
