@@ -4,24 +4,24 @@ title: "Tutorials"
 author_profile: true
 ---
 
-Hands-on AI/ML workshops I delivered for industry professionals at the IoT Systems & Research Center, UW-Madison. All sessions had 22-25 attendees. 
+Hands-on AI/ML workshops I delivered for industry professionals at the IoT Systems & Research Center, UW-Madison. 
 
-**[W1]** Tutorial on Generative AI. January 2025. [Colab](#)
+Tutorial on Designing and Deploying AI Agents Locally. August 2026.
 
-- Generative Adversarial Networks (GANs)
+- [Querying and Analyzing Spreadsheets Through Conversations](#)
 
-**[W2]** Tutorial on Methods for Complex Multivariate Time Series Data Analytics. May 2025. [Colab](#)
+Tutorial on Supervised Learning for Industrial IoT Data. May 2026.
 
-- Model Evaluation and Uncertainty Quantification
+- [Tree-Based Methods: Decision Trees, Bagging, and Random Forests](#)
 
-**[W3]** Tutorial on Time Series Analytics and Adaptations of Large Language Models (LLMs). August 2025. [Colab](#)
+Tutorial on Time Series Analytics and Adaptations of Large Language Models (LLMs). August 2025.
 
-- Adaptation of Large Language Models (LLMs)
+- [Adaptation of Large Language Models (LLMs)](#)
 
-**[W4]** Tutorial on Supervised Learning for Industrial IoT Data. May 2026. [Colab](#)
+Tutorial on Methods for Complex Multivariate Time Series Data Analytics. May 2025.
 
-- Tree-Based Methods: Decision Trees, Bagging, and Random Forests
+- [Model Evaluation and Uncertainty Quantification](#)
 
-**[W5]** Tutorial on Designing and Deploying AI Agents Locally. August 2026. [Colab](#)
+Tutorial on Generative AI. January 2025.
 
-- Querying and Analyzing Spreadsheets Through Conversations
+- [Generative Adversarial Networks (GANs)](#)
