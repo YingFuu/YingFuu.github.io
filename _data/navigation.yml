@@ -3,24 +3,23 @@
 # Changing the order here will adjust the order and you can also add additional
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
-
+# Each "url" must match the "permalink" of a page in _pages/.
 
 main:
-  #- title: "About Me"
-  #  url: "/#about-me"
-    
-  #- title: "Educations"
-  #  url: "/#-educations"
-    
-  #- title: "Publications"
-  #  url: "/#-publications"
+  - title: "Home"
+    url: /
 
-  #- title: "Honors and Awards"
-  #  url: "/#-awards-and-honors"
+  - title: "Research"
+    url: /research/
 
+  - title: "Publications"
+    url: /publications/
 
-  #- title: "Teaching"
-  #  url: "/#-teaching"
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Tutorials"
+    url: /tutorials/
 
   - title: "CV"
-    url: "/resume/Resume.pdf"
+    url: /resume/Resume.pdf
