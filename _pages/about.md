@@ -13,24 +13,28 @@ I am a fifth-year Ph.D. candidate in the [Department of Industrial and Systems E
   <a class="btn btn--primary" href="https://scholar.google.com/citations?hl=en&user=Rm9d2l0AAAAJ"><i class="ai ai-google-scholar"></i> Google Scholar</a>
   <a class="btn btn--primary" href="mailto:ying.fu@wisc.edu"><i class="fas fa-envelope"></i> Email</a>
 </div>
-
 <small>last updated: Sep. 2026</small>
 
 
 # Research Interests
-
 - Degradation Modeling and Prognostics
+
 - Machine Learning and Industrial AI (LLMs, AI Agents,and Generative Models)
+
 - Digital Twins
+
 - Markov Decision Processes and Reinforcement Learning
+
 - Optimization and Data-Driven Decision-Making
 
+  
 
-
-## Application Areas
+# Application Areas
 
 - Smart Manufacturing
+
 - Logistics Robotics
+
 - Fusion Facilities and Nuclear Energy Systems
 
   
