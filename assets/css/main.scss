@@ -108,3 +108,8 @@ $accent: #52adc8;
 
 .pub-links a { border: 0; text-decoration: none; margin-right: .3em; }
 .pub-links img { display: inline-block; height: 20px; width: auto; margin: 0; vertical-align: middle; }
+
+// Tighter list spacing in page content
+.page__content ul li, .page__content ol li { margin-bottom: 0.15em; }
+.page__content li ul, .page__content li ol { margin-top: 0.15em; }
+.page__content ul, .page__content ol { margin-bottom: 0.8em; }

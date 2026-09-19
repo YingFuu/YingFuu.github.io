@@ -20,7 +20,7 @@ I am a fifth-year Ph.D. candidate in the [Department of Industrial and Systems E
 # Research Interests
 
 - Degradation Modeling and Prognostics
-- Machine Learning and Industrial AI (LLMs, AI Agents, Deep Learning, and Generative Models)
+- Machine Learning and Industrial AI (LLMs, AI Agents,and Generative Models)
 - Digital Twins
 - Markov Decision Processes and Reinforcement Learning
 - Optimization and Data-Driven Decision-Making
@@ -37,7 +37,7 @@ I am a fifth-year Ph.D. candidate in the [Department of Industrial and Systems E
 
   
 
-# 🎖 Honors and Awards
+# 🎖️ Honors and Awards
 
 - Grainger Wisconsin Distinguished Graduate Fellowship, 2026–2027
 

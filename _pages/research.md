@@ -19,7 +19,7 @@ Predicting remaining life from sensor and event data, including under unknown fa
 - [A Bayesian Spike-and-Slab Sensor Selection Approach for High-Dimensional Prognostics](https://ieeexplore.ieee.org/document/10942441), *IEEE TASE* (2025).
 - A degradation-aware cross-attention framework for multimodal prognostics with discrete event logs and continuous sensor signals (under revision).
 
-## 🛠 Proactive Maintenance and Decision-Making
+## 🛠️ Proactive Maintenance and Decision-Making
 
 Using learning and optimization to decide when to maintain and how to allocate work across a fleet of degrading assets.
 
