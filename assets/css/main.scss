@@ -175,3 +175,14 @@ $accent: #52adc8;
   .callout { background: #1c2b3f; border-left-color: #4c8dff; color: #e6eaf2; }
   .news-list .date { color: #6cb8d4; }
 }
+
+// Night-view toggle sits beside (not inside) the nav, so the nav script leaves it alone
+.masthead__inner-wrap { position: relative; }
+.masthead__inner-wrap > #theme-toggle {
+  position: absolute;
+  top: 50%;
+  right: 3.5rem;
+  transform: translateY(-50%);
+  z-index: 30;
+  font-size: 1.2em;
+}
