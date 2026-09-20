@@ -12,3 +12,6 @@ Gemfile.lock
 node_modules
 package-lock.json
 /_data/*.bak
+
+# Original figure PDFs (the site uses the PNG versions)
+images/publications/*.pdf
