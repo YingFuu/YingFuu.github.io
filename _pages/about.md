@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year Ph.D. candidate in the [Department of Industrial and Systems Engineering](https://engineering.wisc.edu/departments/industrial-systems-engineering/) at the [University of Wisconsin–Madison](https://www.wisc.edu/), advised by [Prof. Kaibo Liu](https://kaibo.ie.wisc.edu/). I received an M.S. in Computer Science from UW–Madison in 2025. Before joining UW–Madison, I earned an M.S. in Management Science and Engineering in 2022 and completed my undergraduate studies in engineering and finance in 2019, both at South China University of Technology.
+I am a fifth-year Ph.D. candidate in the [Department of Industrial and Systems Engineering](https://engineering.wisc.edu/departments/industrial-systems-engineering/) at the [University of Wisconsin–Madison](https://www.wisc.edu/), advised by [Prof. Kaibo Liu](https://kaibo.ie.wisc.edu/). I received an M.S. in Computer Science from UW–Madison in 2025. Before joining UW–Madison, I earned an M.S. in Management Science and Engineering in 2022 and a B.S. in Material Engineering and Finance in 2019, both at South China University of Technology.
 
 <div class="btn-row">
   <a class="btn btn--primary" href="https://scholar.google.com/citations?hl=en&user=Rm9d2l0AAAAJ"><i class="ai ai-google-scholar"></i> Google Scholar</a>
