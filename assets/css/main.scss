@@ -125,3 +125,53 @@ $accent: #52adc8;
   border-radius: 6px;
   font-weight: 500;
 }
+
+// ---- Night view ----
+#theme-toggle {
+  background: none; border: 0; cursor: pointer;
+  font-size: 1.05em; line-height: 1; padding: .2em .5em;
+}
+#theme-toggle .ico-sun { display: none; }
+[data-theme="dark"] #theme-toggle .ico-moon { display: none; }
+[data-theme="dark"] #theme-toggle .ico-sun { display: inline; }
+
+[data-theme="dark"] {
+  color-scheme: dark;
+
+  body { background: #16181d; color: #d7dae0; }
+  h1, h2, h3, h4, h5, h6, .page__title, .archive__item-title, .pub-title { color: #f1f3f6; }
+  a { color: #6cb8d4; }
+  a:hover { color: #9ad3e8; }
+  hr, .page__content h2, .page__meta { border-color: #2c3038; }
+
+  .masthead { background: #1d2026; border-bottom-color: #2c3038; box-shadow: none; }
+  .greedy-nav a { color: #b5bac4; }
+  .greedy-nav a:hover { color: #fff; }
+  .greedy-nav .hidden-links { background: #1d2026; border-color: #2c3038; }
+  .greedy-nav .hidden-links:after { border-color: #1d2026 transparent; }
+
+  .sidebar, .author__name, .author__bio, .author__urls li a { color: #d7dae0; }
+  .author__urls { background: #1d2026; border-color: #2c3038; }
+  .author__urls:before { border-color: #2c3038 transparent; }
+  .author__urls:after { border-color: #1d2026 transparent; }
+  .author__avatar img { border-color: #2c3038; }
+
+  .page__footer { background: #1d2026; color: #9aa0ab; }
+  .page__footer a { color: #b5bac4; }
+
+  code, pre, .highlight, .highlighter-rouge { background: #1f232a; color: #d7dae0; border-color: #2c3038; }
+  table, th, td { border-color: #2c3038; }
+  thead, th { background: #1f232a; }
+  .btn { border-color: transparent; }
+
+  .pub-venue, .card p, .card-meta { color: #a3a9b4; }
+  .pub-award { color: #ff8a7a; }
+  .pub-btn { color: #d7dae0; border-color: #8a90a0; }
+  .pub-btn:hover { color: #fff; }
+  .pub-thumb__empty { background: linear-gradient(135deg, #262b33, #1f232a); color: #4a5260; }
+  .pub-item { border-bottom-color: #2c3038; }
+  .pub-thumb img, .pub-thumb video { box-shadow: 0 3px 12px rgba(0,0,0,.6); }
+  .card { background: #1d2026; border-color: #2c3038; box-shadow: none; }
+  .callout { background: #1c2b3f; border-left-color: #4c8dff; color: #e6eaf2; }
+  .news-list .date { color: #6cb8d4; }
+}

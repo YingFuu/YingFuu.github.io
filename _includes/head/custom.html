@@ -30,3 +30,20 @@
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 <!-- end custom head snippets -->
+
+<!-- Night view: apply the saved (or system) theme before first paint, and handle the toggle button -->
+<script>
+(function () {
+  var root = document.documentElement;
+  function saved() { try { return localStorage.getItem('theme'); } catch (e) { return null; } }
+  var t = saved() || (window.matchMedia && matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+  root.setAttribute('data-theme', t);
+  document.addEventListener('click', function (e) {
+    var b = e.target.closest && e.target.closest('#theme-toggle');
+    if (!b) return;
+    var next = root.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+    root.setAttribute('data-theme', next);
+    try { localStorage.setItem('theme', next); } catch (e2) {}
+  });
+})();
+</script>
