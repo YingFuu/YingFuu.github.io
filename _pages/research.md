@@ -10,6 +10,6 @@ In engineering systems, degradation, performance, and operational decisions evol
 
 <img src="/images/research-vision.png" alt="Research vision: from degradation to decisions" style="width:100%; margin: 1em 0;">
 
-## Potential Funding Resources
+## Potential Funding Sources
 
 I will seek funding from NSF (*AMDO*, *FRR*, and *CPS*), ONR (*Science of Autonomy*), DoD (*CBM+*), and DOE (*NEUP* and *FES*).
